@@ -48,24 +48,24 @@ interests:
 education:
   - area: PhD Aerospace, Aeronautical and Astronautical/Space Engineering 
     institution: Cornell University
-    date_start: 2023
+    date_start: 2023-08-01
     date_end: ''
   - area: MSc Civil and Environmental Engineering
     institution: Stanford University
-    date_start: 2021
-    date_end: 2023
+    date_start: 2021-09-01
+    date_end: 2023-06-01
   - area: BSc Environmental Science and Management
     institution: University of California, Davis
-    date_start: 2018
-    date_end: 2021
+    date_start: 2018-09-01
+    date_end: 2021-06-01
 
 research:
   - position: Solution Project Research Assistant
     company_name: Stanford University
     company_url: ''
     company_logo: ''
-    date_start: 2022
-    date_end: 2023
+    date_start: 2022-10-01
+    date_end: 2023-07-01
     summary: |2-
       - Reviewed literature, policy reports, and news articles related to offshore wind energy siting.
       - analyzed and processed the GIS layers to assess offshore wind energy potential.
@@ -74,8 +74,8 @@ research:
     company_name: Stanford University
     company_url: ''
     company_logo: ''
-    date_start: 2022
-    date_end: 2023
+    date_start: 2022-06-01
+    date_end: 2023-06-01
     summary: |
       Developing a subsurface CO2 injection database with various types of reservoirs [e.g., heterogeneous and channelized reservoirs] for a pre-trained machine learning model (CCSNet) using a state-of-the-art full-physics simulator, ECLIPSE.
 
@@ -127,14 +127,14 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Department Citation & Citation for Outstanding Performance [Graduation Awards]
-    date: 2021
+    date: 2021-06-01
     awarder: ESP/LAWR Department, University of California, Davis
   - title: Land, Air, and Water, Resources Opportunity Fund Scholarship
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: 2020
+    date: 2020-09-01
     awarder: University of California, Davis 
   - title: William and Linda Sullivan Scholarship
-    date: 2019
+    date: 2019-09-01
     awarder: University of California, Davis
 ---
 
