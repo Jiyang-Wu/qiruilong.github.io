@@ -64,8 +64,8 @@ research:
     company_name: Stanford University
     company_url: ''
     company_logo: ''
-    date_start: 'Oct 2021'
-    date_end: 'Jul 2023'
+    date_start: 2022
+    date_end: 2023
     summary: |2-
       - Reviewed literature, policy reports, and news articles related to offshore wind energy siting.
       - analyzed and processed the GIS layers to assess offshore wind energy potential.
@@ -74,8 +74,8 @@ research:
     company_name: Stanford University
     company_url: ''
     company_logo: ''
-    date_start: 'Jun 2022'
-    date_end: 'Jun 2023'
+    date_start: 2022
+    date_end: 2023
     summary: |
       Developing a subsurface CO2 injection database with various types of reservoirs [e.g., heterogeneous and channelized reservoirs] for a pre-trained machine learning model (CCSNet) using a state-of-the-art full-physics simulator, ECLIPSE.
 
@@ -127,14 +127,14 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Department Citation & Citation for Outstanding Performance [Graduation Awards]
-    date: 'Jun 2021'
+    date: 2021
     awarder: ESP/LAWR Department, University of California, Davis
   - title: Land, Air, and Water, Resources Opportunity Fund Scholarship
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: 'Sep 2020'
+    date: 2020
     awarder: University of California, Davis 
   - title: William and Linda Sullivan Scholarship
-    date: 'Sep 2019'
+    date: 2019
     awarder: University of California, Davis
 ---
 
