@@ -49,7 +49,7 @@ education:
   - area: PhD Aerospace, Aeronautical and Astronautical/Space Engineering 
     institution: Cornell University
     date_start: 2023
-    date_end: Present
+    date_end: ''
   - area: MSc Civil and Environmental Engineering
     institution: Stanford University
     date_start: 2021
