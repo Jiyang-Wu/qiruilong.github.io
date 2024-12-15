@@ -64,8 +64,8 @@ research:
     company_name: Stanford University
     company_url: ''
     company_logo: ''
-    date_start: Oct 2021
-    date_end: Jul 2023
+    date_start: 'Oct 2021'
+    date_end: 'Jul 2023'
     summary: |2-
       - Reviewed literature, policy reports, and news articles related to offshore wind energy siting.
       - analyzed and processed the GIS layers to assess offshore wind energy potential.
@@ -74,8 +74,8 @@ research:
     company_name: Stanford University
     company_url: ''
     company_logo: ''
-    date_start: Jun 2022
-    date_end: Jun 2023
+    date_start: 'Jun 2022'
+    date_end: 'Jun 2023'
     summary: |
       Developing a subsurface CO2 injection database with various types of reservoirs [e.g., heterogeneous and channelized reservoirs] for a pre-trained machine learning model (CCSNet) using a state-of-the-art full-physics simulator, ECLIPSE.
 
